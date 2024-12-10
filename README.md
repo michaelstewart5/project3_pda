@@ -1,4 +1,4 @@
-# Project: Simulation Study on Model Performance and Budget Constraints
+# Simulation Study on Model Performance and Budget Constraints
 
 ## Overview
 
